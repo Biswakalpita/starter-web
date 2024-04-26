@@ -12,6 +12,6 @@ As stated above , main purpose is provide simple examples for git training.
 
 ## Deployment
 
-
+This is a simple web project , deployment can be on any web server or even local file system.
 
 ## How to contribute
